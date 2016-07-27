@@ -2,7 +2,7 @@
 	"HELLO, I AM AT THE LOCATION OF JOEST PARELMAN": "Hello, I understand he sent in a claim on property damage. How can I help you?",
 	"THE PROPERTY DAMAGE IS OF A D3 CATEGORY, BELONGING TO A CLASS M VEHICLE. THE CUSTOMER BOUGHT A L5 PROPERTY ALL-INCLUSIVE. COULD YOU SHOW ME DATA ABOUT SIMILAR EXISTING CASES?":"![insurance1](https://github.com/Wensh/EstherBot/blob/master/img/insurance1.png?raw=true)\n![insurance2](https://github.com/Wensh/EstherBot/blob/master/img/insurance2.png?raw=true)",
 	"SHOW ME THE CORRELATION CALCULATIONS REQUESTED BY HANDLERS FIXATED ON SIMILAR CASES":"![insurance4](https://github.com/Wensh/EstherBot/blob/master/img/insurance4.png?raw=true)",
-	"PLEASE SHOW ME IN GRAPH FORM":"Sure\n![insurance3](https://github.com/Wensh/EstherBot/blob/master/img/insurance3.png?raw=true)",
+	"PLEASE SHOW ME IN GRAPH FORM":"Sure![insurance3](https://github.com/Wensh/EstherBot/blob/master/img/insurance3.png?raw=true)",
 	"EXPLAIN BOTH THE NEGATIVE AND POSITIVE PEAKS FOR ME PLEASE":"The higher payouts seems to be located at lower vehicle age and middle income.\nLower payouts, have a higher vehicle age.",
 	"OK UNDERSTOOD, JUST GIVE ME THE AVERAGE CLAIM FOR L5 PROPERTY CUSTOMERS IN THIS SITUATION":"The average is €7666,53"
 }
