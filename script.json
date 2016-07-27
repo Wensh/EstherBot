@@ -1,11 +1,8 @@
 {
-"i need to reduce costs by closing an office": "I am sorry to hear that, how can I help you?"
-"give me the 3 worst performing site, concerning customer service": "Sure, here they are:\nABN AMRO Coolsingel, Coolsingel 50![coolsingel](https://raw.github.com/Wensh/EstherBot/blob/master/img/coolsingel.PNG)\nABN AMRO Koevest, Koevest 7[koevest](https://raw.github.com/Wensh/EstherBot/blob/master/img/koevest.PNG)\nABN AMRO Den Dungen, Halverstraat 20[dungen](https://raw.github.com/Wensh/EstherBot/blob/master/img/dungen.PNG)"
-"HELLO": "Good morning Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-"BOTBOT	": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-"HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-"TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-"I LOVE YOU": "Awh, shucks! I love you too!",
-"CONNECT ME": "",
-"DISCONNECT": "Roger that, EstherBot is back."
+	"Hello, I am the location of Joest Parelman": "Hello, I understand he sent in a claim on property damage. How can I help you."
+	"The property damage is of a D3 category, belonging to a class M vehicle. The customer bought a L5 property all-inclusive. Could you show me data about similar existing cases?":"Sure, here they are:\n[insurance1](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance1.png)\n[insurance2](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance2.png)"
+	"Show me the correlation calculations requested by handlers fixated on similar cases":"[insurance4](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance4.png)"
+	"Please show me in graph form":"Sure\n[insurance3](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance3.png)"
+	"Explain both the negative and positive peaks for me please":"The higher payouts seems to be located at lower vehicle age and middle income.\nLower payouts, have a higher vehicle age."
+	"Ok understood, just give me the average claim for L5 property customers in this situation.":"The average is €7666,53"
 }
