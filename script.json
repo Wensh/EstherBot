@@ -1,5 +1,5 @@
 {
-	"Hello, I am the location of Joest Parelman": "Hello, I understand he sent in a claim on property damage. How can I help you.",
+	"Hello, I am at the location of Joest Parelman": "Hello, I understand he sent in a claim on property damage. How can I help you.",
 	"The property damage is of a D3 category, belonging to a class M vehicle. The customer bought a L5 property all-inclusive. Could you show me data about similar existing cases?":"Sure, here they are:\n![insurance1](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance1.png)\n![insurance2](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance2.png)",
 	"Show me the correlation calculations requested by handlers fixated on similar cases":"![insurance4](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance4.png)",
 	"Please show me in graph form":"Sure\n![insurance3](https://raw.github.com/Wensh/EstherBot/blob/master/img/insurance3.png)",
