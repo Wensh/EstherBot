@@ -3,5 +3,5 @@
 	"HOW SURE ARE YOU OF YOUR RESULTS?": "Very sure, the reliability rate is 91%.",
 	"WHY IS IT RISKY?":"Her credit report has a big impact on her risk score.",
 	"SHOW ME THE GRAPH":"No problem, Michael.\n![sampleBIPeak](https://raw.githubusercontent.com/Wensh/EstherBot/master/img/sampleBIPeak.PNG)\nThe graph shows that credit report took a dive, because her utilisation increased to 47%. Company guidelines states that utilisation rate has to be lower than 20%. This paired with the collection item present in her file points to a high risk percentage of 87%.",
-	"IS THE DATA TO BE TRUSTED":"I do not understand the question. Did you mean one of the following questions?\n%[Are the results reliable?](postback:twitter)\n%[Contact BI support.](postback:twitter)"
+	"IS THE DATA TO BE TRUSTED":"I do not understand the question. Did you mean one of the following questions?\n%[Reliable results?](postback:twitter)\n%[Contact BI support.](postback:twitter)"
 }
